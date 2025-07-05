@@ -4,7 +4,7 @@ This is my personal static website hosted using **GitHub Pages**.
 
 ##  Live Website
 
-🔗 [https://Rangpariya-Krish.github.io](https://Rangpariya-Krish.github.io)
+🔗 [https://Rangpariya-Krish.github.io](https://github.com/Rangpariya-Krish)
 
 ##  Project Structure
 
