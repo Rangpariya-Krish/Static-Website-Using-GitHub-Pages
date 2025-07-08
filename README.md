@@ -2,6 +2,10 @@
 
 This is my personal static website hosted using **GitHub Pages**.
 
+# Live demo
+
+[Click here](file:///C:/Users/krish%20rangpariya/Documents/GitHub/Static-Website-Using-GitHub-Pages/index.html)
+
 ##  Project Structure
 
 Rangpariya-Krish.github.io
